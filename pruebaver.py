@@ -1,2 +1,2 @@
-ver= 5
+ver= 5 + 5
 print(ver)
